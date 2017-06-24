@@ -1,0 +1,2 @@
+# laracms
+Laravel CMS Lite
